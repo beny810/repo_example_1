@@ -1,2 +1,2 @@
-# repo_example_1
+# repo_example
 Beispiel_1 für Reporsitory Github
